@@ -1,0 +1,25 @@
+
+INFORMATION:
+==========================================================
+This e-learning platform is an simply platform. Its supports an easy
+way of creating an e-learning offer by using a simple XML syntax structure.
+
+
+REQUIREMENTS:
+==========================================================
+o PHP version 5.3 or higher
+o Database support (e.g. MySQL or SQLite)
+o cakePHP version 2.x
+o Any webserver system supporting cakePHP, e.g. Apache
+
+
+INSTALLATION:
+==========================================================
+All needed cakePHP changes are placed in the src-folder.
+If you have any cakePHP source version you can copy the
+content of the folder into a clean copy.
+
+If you like to set-up an clean installation of cakePHP
+and the e-learning platform, simply run the setup script
+on any *nix system you like. NOTE: The script needs curl!
+
